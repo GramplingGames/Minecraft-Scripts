@@ -1,0 +1,10 @@
+This Plugin is using the Program "Skript"
+
+if you need help to start this Plugin you have to contact me!
+
+
+this Plugin is in German actuly but if you cant speak german i translate it for you!
+
+Commands:
+/cc - ClearChat
+and some more xD
